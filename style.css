@@ -4,6 +4,10 @@ html,body{
   background-color: #343a40;
   font-family: 'Source Sans Pro', sans-serif;
 }
+.fa-shopping-basket{
+  font-size: 180%;
+}
+
 #navbarDropdown
 {
   color: orange;
