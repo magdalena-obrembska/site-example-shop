@@ -1,0 +1,40 @@
+html,body{
+  margin: 0;
+  padding: 0;
+  background-color: #343a40;
+}
+#navbarDropdown
+{
+  color: orange;
+}
+#sale{
+  color: red;
+}
+#buy{
+  color: white;
+}
+
+form, h2, p{
+  color: white;
+  margin-top: 40px;
+}
+.card{
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: #343a40;
+  border: none;
+  text-align: center;
+
+}
+.card-body{
+  height: 10px;
+  background-color: #343a40;
+  color: white;
+
+
+}
+.card-img-top{
+  height: 25vh;
+  width: 80%;
+}
