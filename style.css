@@ -2,6 +2,7 @@ html,body{
   margin: 0;
   padding: 0;
   background-color: #343a40;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 #navbarDropdown
 {
@@ -13,10 +14,18 @@ html,body{
 #buy{
   color: white;
 }
-
+#txt{
+  padding-left: 10%;
+}
+.products{
+  margin-bottom: 30px;
+}
 form, h2, p{
   color: white;
   margin-top: 40px;
+}
+.card-group{
+  background-color: #343a40;
 }
 .card{
   margin-top: 5%;
@@ -32,9 +41,17 @@ form, h2, p{
   background-color: #343a40;
   color: white;
 
-
 }
 .card-img-top{
-  height: 25vh;
-  width: 80%;
+  height: 35vh;
+  width: 90%;
+  border: 2px solid orange;
+
+}
+#foot{
+  color: white;
+  background-color: grey;
+}
+.footer-copyright{
+  background-color: darkgrey;
 }
